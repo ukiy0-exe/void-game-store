@@ -1,0 +1,451 @@
+[
+  {
+    "id": 1,
+    "company_name": "Grand Theft Auto V",
+    "img": "https://www.godisageek.com/wp-content/uploads/GTA-V-Background1.jpg",
+    "short_description": "Grand Theft Auto V is a 2013 action-adventure game developed by Rockstar North and published by Rockstar Games. It is the seventh main entry in the Grand Theft Auto series.",
+    "platforms": {
+      "steam": true,
+      "epic-games": true,
+      "battle-net": true,
+      "gog": true
+    },
+    "price": 29.99
+  },
+  {
+    "id": 2,
+    "company_name": "The Witcher 3: Wild Hunt",
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/292030/header.jpg",
+    "short_description": "The Witcher 3: Wild Hunt is a 2015 action role-playing game developed by CD Projekt Red, where players control Geralt of Rivia, a monster hunter searching for his adopted daughter.",
+    "platforms": {
+      "steam": true,
+      "gog": true
+    },
+    "price": 39.99
+  },
+  {
+    "id": 3,
+    "company_name": "Cyberpunk 2077",
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/1091500/header.jpg",
+    "short_description": "Cyberpunk 2077 is a 2020 action role-playing video game developed and published by CD Projekt. Set in the open world of Night City, a megalopolis obsessed with power, glamour, and body modification.",
+    "platforms": {
+      "steam": true,
+      "epic-games": true,
+      "gog": true
+    },
+    "price": 49.99
+  },
+  {
+    "id": 4,
+    "company_name": "Red Dead Redemption 2",
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/1174180/header.jpg",
+    "short_description": "Red Dead Redemption 2 is a 2018 action-adventure game developed and published by Rockstar Games. The game is the third entry in the Red Dead series and a prequel to the 2010 game Red Dead Redemption.",
+    "platforms": {
+      "steam": true,
+      "epic-games": true
+    },
+    "price": 59.99
+  },
+  {
+    "id": 5,
+    "company_name": "Minecraft",
+    "img": "https://www.minecraft.net/content/dam/games/minecraft/key-art/Vanilla-PMP_Collection-Carousel-0_Buzzy-Bees_1280x768.jpg",
+    "short_description": "Minecraft is a sandbox video game developed by Mojang Studios, where players explore a blocky, procedurally generated 3D world with infinite terrain, discovering and extracting raw materials.",
+    "platforms": {
+      "microsoft": true,
+      "playstation": true,
+      "nintendo": true
+    },
+    "price": 26.95
+  },
+
+  {
+    "id": 7,
+    "company_name": "Among Us",
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/945360/header.jpg",
+    "short_description": "Among Us is an online multiplayer social deduction game developed and published by Innersloth. The game takes place in a space-themed setting where players each take on one of two roles, most being Crewmates, and a predetermined number being Impostors.",
+    "platforms": {
+      "steam": true,
+      "epic-games": true,
+      "microsoft": true
+    },
+    "price": 4.99
+  },
+  {
+    "id": 8,
+    "company_name": "Call of Duty: Modern Warfare II",
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/1938090/header.jpg",
+    "short_description": "Call of Duty: Modern Warfare II is a 2022 first-person shooter game developed by Infinity Ward and published by Activision. It serves as a direct sequel to 2019's Modern Warfare.",
+    "platforms": {
+      "steam": true,
+      "battle-net": true,
+      "playstation": true,
+      "xbox": true
+    },
+    "price": 69.99
+  },
+  {
+    "id": 9,
+    "company_name": "Assassin's Creed Valhalla",
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/2208920/header.jpg",
+    "short_description": "Assassin's Creed Valhalla is an action role-playing video game developed by Ubisoft Montreal and published by Ubisoft. It's the twelfth major installment and the twenty-second release in the Assassin's Creed series.",
+    "platforms": {
+      "epic-games": true,
+      "ubisoft": true,
+      "playstation": true
+    },
+    "price": 59.99
+  },
+  {
+    "id": 10,
+    "company_name": "DOOM Eternal",
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/782330/header.jpg",
+    "short_description": "DOOM Eternal is a 2020 first-person shooter game developed by id Software and published by Bethesda Softworks. It is the sequel to the 2016 DOOM and the fifth main game in the series.",
+    "platforms": {
+      "steam": true,
+      "microsoft": true,
+      "playstation": true
+    },
+    "price": 39.99
+  },
+  {
+    "id": 11,
+    "company_name": "The Legend of Zelda: Breath of the Wild",
+    "img": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/wiiu_14/SI_WiiU_TheLegendOfZeldaBreathOfTheWild_image1600w.jpg",
+    "short_description": "The Legend of Zelda: Breath of the Wild is an action-adventure game developed and published by Nintendo for the Nintendo Switch and Wii U consoles.",
+    "platforms": {
+      "nintendo": true
+    },
+    "price": 59.99
+  },
+  {
+    "id": 12,
+    "company_name": "Halo Infinite",
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/1240440/header.jpg",
+    "short_description": "Halo Infinite is a first-person shooter game developed by 343 Industries and published by Xbox Game Studios. It is the sixth main entry in the Halo series.",
+    "platforms": {
+      "steam": true,
+      "microsoft": true,
+      "xbox": true
+    },
+    "price": 59.99
+  },
+  {
+    "id": 13,
+    "company_name": "Resident Evil Village",
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/1196590/header.jpg",
+    "short_description": "Resident Evil Village is a 2021 survival horror game developed and published by Capcom. It is the tenth major installment in the Resident Evil series and a direct sequel to Resident Evil 7: Biohazard.",
+    "platforms": {
+      "steam": true,
+      "playstation": true,
+      "xbox": true
+    },
+    "price": 49.99
+  },
+  {
+    "id": 14,
+    "company_name": "Fall Guys: Ultimate Knockout",
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/1097150/header.jpg",
+    "short_description": "Fall Guys: Ultimate Knockout is a 2020 battle royale platform game developed by Mediatonic and published by Devolver Digital. Players compete against each other in a series of obstacle courses.",
+    "platforms": {
+      "steam": true,
+      "epic-games": true,
+      "playstation": true
+    },
+    "price": 19.99
+  },
+  {
+    "id": 15,
+    "company_name": "Ghost of Tsushima",
+    "img": "https://i0.wp.com/epiloguegaming.com/wp-content/uploads/2020/08/Ghost-of-Tsushima_20200717055528.jpg?fit=1600%2C900&ssl=1",
+    "short_description": "Ghost of Tsushima is an action-adventure game developed by Sucker Punch Productions and published by Sony Interactive Entertainment for the PlayStation 4 and PlayStation 5.",
+    "platforms": {
+      "playstation": true
+    },
+    "price": 59.99
+  },
+  {
+    "id": 16,
+    "company_name": "Hades",
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/1145360/header.jpg",
+    "short_description": "Hades is a roguelike dungeon crawler game developed and published by Supergiant Games. Players control Zagreus, the son of Hades, as he attempts to escape the Underworld to reach Mount Olympus.",
+    "platforms": {
+      "steam": true,
+      "epic-games": true,
+      "nintendo": true
+    },
+    "price": 24.99
+  },
+  {
+    "id": 17,
+    "company_name": "CyberConnect2 Fuga: Melodies of Steel",
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/1675200/header.jpg",
+    "short_description": "Fuga: Melodies of Steel is a tactical role-playing game developed and published by CyberConnect2, part of the Little Tail Bronx series, it tells the story of anthropomorphic children surviving in a war-torn world.",
+    "platforms": {
+      "steam": true,
+      "playstation": true,
+      "xbox": true
+    },
+    "price": 29.99
+  },
+
+  {
+    "id": 19,
+    "company_name": "Overwatch 2",
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/2357570/header.jpg",
+    "short_description": "Overwatch 2 is a team-based multiplayer first-person shooter developed and published by Blizzard Entertainment. It serves as the sequel to the 2016 hero shooter Overwatch.",
+    "platforms": {
+      "steam": true,
+      "battle-net": true,
+      "playstation": true,
+      "xbox": true
+    },
+    "price": 39.99
+  },
+  {
+    "id": 20,
+    "company_name": "Stardew Valley",
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/413150/header.jpg",
+    "short_description": "Stardew Valley is a farming simulation game developed by Eric 'ConcernedApe' Barone. Players manage their farm, tend to their crops, raise animals, and interact with the townspeople.",
+    "platforms": {
+      "steam": true,
+      "gog": true,
+      "nintendo": true
+    },
+    "price": 14.99
+  },
+  {
+    "id": 21,
+    "company_name": "Celeste",
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/504230/header.jpg",
+    "short_description": "Celeste is a platforming video game developed and published by Maddy Makes Games. Players control a young woman named Madeline as she makes her way up a mountain while avoiding various deadly obstacles.",
+    "platforms": {
+      "steam": true,
+      "epic-games": true,
+      "playstation": true,
+      "xbox": true,
+      "nintendo": true
+    },
+    "price": 19.99
+  },
+  {
+    "id": 22,
+    "company_name": "Hollow Knight",
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/367520/header.jpg",
+    "short_description": "Hollow Knight is a Metroidvania action-adventure game developed and published by Team Cherry. The player controls an insect-like, silent, and nameless knight as they traverse an ancient, plague-infested kingdom.",
+    "platforms": {
+      "steam": true,
+      "gog": true,
+      "playstation": true,
+      "xbox": true,
+      "nintendo": true
+    },
+    "price": 14.99
+  },
+  {
+    "id": 23,
+    "company_name": "Cuphead",
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/268910/header.jpg",
+    "short_description": "Cuphead is a run-and-gun action game developed and published by Studio MDHR. Inspired by the rubber hose style of animation used in cartoons of the 1930s, the game is known for its difficult gameplay and beautiful, hand-drawn graphics.",
+    "platforms": {
+      "steam": true,
+      "gog": true,
+      "playstation": true,
+      "xbox": true,
+      "nintendo": true
+    },
+    "price": 19.99
+  },
+  {
+    "id": 24,
+    "company_name": "Dark Souls III",
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/374320/header.jpg",
+    "short_description": "Dark Souls III is an action role-playing game developed by FromSoftware and published by Bandai Namco Entertainment. It is the fourth entry in the Souls series and features challenging gameplay, intricate level design, and deep lore.",
+    "platforms": {
+      "steam": true,
+      "playstation": true,
+      "xbox": true
+    },
+    "price": 59.99
+  },
+  {
+    "id": 25,
+    "company_name": "Monster Hunter: World",
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/582010/header.jpg",
+    "short_description": "Monster Hunter: World is an action role-playing game developed and published by Capcom. Players take on the role of a Hunter, tasked with slaying or trapping large monsters in a variety of environments.",
+    "platforms": {
+      "steam": true,
+      "playstation": true,
+      "xbox": true
+    },
+    "price": 29.99
+  },
+  {
+    "id": 26,
+    "company_name": "Terraria",
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/105600/header.jpg",
+    "short_description": "Terraria is a 2D sandbox game developed by Re-Logic. It features exploration, crafting, building, and combat with a variety of creatures in a procedurally generated 2D world.",
+    "platforms": {
+      "steam": true,
+      "playstation": true,
+      "xbox": true,
+      "nintendo": true
+    },
+    "price": 9.99
+  },
+  {
+    "id": 27,
+    "company_name": "Subnautica",
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/264710/header.jpg",
+    "short_description": "Subnautica is an open-world survival action-adventure game developed and published by Unknown Worlds Entertainment. Players explore an alien ocean world while managing resources and constructing underwater bases.",
+    "platforms": {
+      "steam": true,
+      "epic-games": true,
+      "playstation": true,
+      "xbox": true
+    },
+    "price": 29.99
+  },
+  {
+    "id": 28,
+    "company_name": "No Man's Sky",
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/275850/header.jpg",
+    "short_description": "No Man's Sky is an action-adventure survival game developed and published by Hello Games. It features a procedurally generated open universe with a nearly infinite number of planets to explore.",
+    "platforms": {
+      "steam": true,
+      "playstation": true,
+      "xbox": true
+    },
+    "price": 59.99
+  },
+  {
+    "id": 29,
+    "company_name": "Dead Cells",
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/588650/header.jpg",
+    "short_description": "Dead Cells is a roguelike-Metroidvania game developed and published by Motion Twin. Players explore a procedurally generated castle, fighting enemies and unlocking new abilities.",
+    "platforms": {
+      "steam": true,
+      "epic-games": true,
+      "playstation": true,
+      "xbox": true,
+      "nintendo": true
+    },
+    "price": 24.99
+  },
+  {
+    "id": 30,
+    "company_name": "Outer Wilds",
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/753640/header.jpg",
+    "short_description": "Outer Wilds is an action-adventure game developed by Mobius Digital and published by Annapurna Interactive. Players explore a miniature solar system stuck in a time loop, uncovering mysteries and piecing together the narrative.",
+    "platforms": {
+      "steam": true,
+      "epic-games": true,
+      "playstation": true,
+      "xbox": true
+    },
+    "price": 24.99
+  },
+  {
+    "id": 31,
+    "company_name": "Ori and the Will of the Wisps",
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/1057090/header.jpg",
+    "short_description": "Ori and the Will of the Wisps is a platform-adventure Metroidvania game developed by Moon Studios and published by Xbox Game Studios. It follows the story of a young orphan destined for heroics.",
+    "platforms": {
+      "steam": true,
+      "microsoft": true,
+      "xbox": true
+    },
+    "price": 29.99
+  },
+  {
+    "id": 32,
+    "company_name": "Spiritfarer",
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/972660/header.jpg",
+    "short_description": "Spiritfarer is a cozy management game about dying, where players take on the role of a ferry master guiding the spirits of the deceased to the afterlife.",
+    "platforms": {
+      "steam": true,
+      "epic-games": true,
+      "playstation": true,
+      "xbox": true,
+      "nintendo": true
+    },
+    "price": 29.99
+  },
+  {
+    "id": 33,
+    "company_name": "Slay the Spire",
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/646570/header.jpg",
+    "short_description": "Slay the Spire is a roguelike deck-building game developed by MegaCrit. Players climb the Spire, a tower filled with monsters, traps, and treasures, while using cards drawn from their deck to combat enemies.",
+    "platforms": {
+      "steam": true,
+      "playstation": true,
+      "xbox": true,
+      "nintendo": true
+    },
+    "price": 24.99
+  },
+  {
+    "id": 34,
+    "company_name": "Divinity: Original Sin 2",
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/435150/header.jpg",
+    "short_description": "Divinity: Original Sin 2 is a role-playing video game developed and published by Larian Studios. It features turn-based combat, cooperative multiplayer, and an immersive story set in a fantastical world.",
+    "platforms": {
+      "steam": true,
+      "playstation": true,
+      "xbox": true,
+      "nintendo": true
+    },
+    "price": 44.99
+  },
+  {
+    "id": 35,
+    "company_name": "Ghostrunner",
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/1139900/header.jpg",
+    "short_description": "Ghostrunner is a cyberpunk action platformer developed by One More Level and published by 505 Games. Players navigate a dystopian world, using speed, agility, and combat skills to defeat enemies and uncover secrets.",
+    "platforms": {
+      "steam": true,
+      "epic-games": true,
+      "playstation": true,
+      "xbox": true
+    },
+    "price": 29.99
+  },
+  {
+    "id": 36,
+    "company_name": "Disco Elysium",
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/632470/header.jpg",
+    "short_description": "Disco Elysium is a role-playing game developed and published by ZA/UM. It features an isometric perspective, deep narrative, and focuses on exploration, dialogue, and choice-based gameplay.",
+    "platforms": {
+      "steam": true,
+      "epic-games": true,
+      "playstation": true,
+      "xbox": true
+    },
+    "price": 39.99
+  },
+  {
+    "id": 37,
+    "company_name": "Sekiro: Shadows Die Twice",
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/814380/header.jpg",
+    "short_description": "Sekiro: Shadows Die Twice is an action-adventure game developed by FromSoftware and published by Activision. It is known for its challenging combat and beautiful world inspired by late 1500s Sengoku period Japan.",
+    "platforms": {
+      "steam": true,
+      "playstation": true,
+      "xbox": true
+    },
+    "price": 59.99
+  },
+  {
+    "id": 39,
+    "company_name": "Control",
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/870780/header.jpg",
+    "short_description": "Control is an action-adventure game developed by Remedy Entertainment and published by 505 Games. Players explore the mysterious Federal Bureau of Control, a secret government agency investigating paranormal phenomena.",
+    "platforms": {
+      "steam": true,
+      "epic-games": true,
+      "playstation": true,
+      "xbox": true
+    },
+    "price": 29.99
+  }
+]
