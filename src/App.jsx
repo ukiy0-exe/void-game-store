@@ -9,6 +9,7 @@ import PageNotFound from "./pages/PageNotFound";
 import { useContext } from "react";
 import { ThemeContext } from "./contexts/ThemeContext";
 import Cart from "./pages/Cart";
+import { CartProvider } from "./contexts/CartContext/CartContext";
 
 function App() {
   const { darkMode } = useContext(ThemeContext);
@@ -20,16 +21,18 @@ function App() {
           " h-fit md:h-full font-customFont text-primary bg-background"
         }
       >
-        <Routes>
-          <Route path="/" exact element={<Layout />}>
-            <Route index element={<Home />} />
-            <Route path="/about" element={<About />} />
-            <Route path="/products" element={<Products />} />
-            <Route path="/support" element={<Support />} />
-            <Route path="/cart" element={<Cart />} />
-          </Route>
-          <Route path="*" element={<PageNotFound />} />
-        </Routes>
+        <CartProvider>
+          <Routes>
+            <Route path="/" exact element={<Layout />}>
+              <Route index element={<Home />} />
+              <Route path="/about" element={<About />} />
+              <Route path="/products" element={<Products />} />
+              <Route path="/support" element={<Support />} />
+              <Route path="/cart" element={<Cart />} />
+            </Route>
+            <Route path="*" element={<PageNotFound />} />
+          </Routes>
+        </CartProvider>
       </div>
     </>
   );

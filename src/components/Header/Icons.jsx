@@ -6,7 +6,7 @@ import ThemeSwitcher from "./ThemeSwitcher";
 const Icons = () => {
   return (
     <div className="menu md:basis-1/6 basis-1/3 flex items-center justify-around">
-      <Link className="px-2">
+      <Link to="/cart" className="px-2">
         <img src="src/assets/icons/shopping-cart.svg" alt="" />
       </Link>
       <Link className="px-2">
