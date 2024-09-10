@@ -5,7 +5,7 @@ import Icons from "./Icons";
 
 const Header = () => {
   return (
-    <header className=" w-full sticky top-0 z-40  py-2 flex justify-around items-center bg-secondary bg-opacity-50 backdrop-blur-sm border-b-2 border-highlight dark:bg-zinc-900 dark:text-zinc-400">
+    <header className="sticky top-0 z-40 flex w-full items-center justify-around border-b-2 border-highlight bg-secondary bg-opacity-50 py-2 backdrop-blur-sm dark:bg-zinc-900 dark:text-zinc-400">
       <Logo />
       <Navigation />
       <Icons />

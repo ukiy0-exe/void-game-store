@@ -4,7 +4,7 @@ import ProductsWelcome from "../components/Main/Products/ProductsWelcome";
 
 const Products = () => {
   return (
-    <div className="customBackground">
+    <div className="customBackground dark:bg-zinc-800 dark:text-white">
       <ProductsWelcome />
       <ProductsList />
     </div>

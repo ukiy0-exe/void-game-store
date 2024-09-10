@@ -18,12 +18,14 @@
 }
 
 a:hover {
-  cursor: url(https://cdn.custom-cursor.com/db/4731/32/arrow2699.png) 0 0,
+  cursor:
+    url(https://cdn.custom-cursor.com/db/4731/32/arrow2699.png) 0 0,
     pointer;
 }
 
 button:hover {
-  cursor: url(https://cdn.custom-cursor.com/db/4731/32/arrow2699.png) 0 0,
+  cursor:
+    url(https://cdn.custom-cursor.com/db/4731/32/arrow2699.png) 0 0,
     pointer;
 }
 
@@ -39,6 +41,10 @@ button:hover {
   background: linear-gradient(180deg, transparent 60%, #47308027 0);
 }
 
-.highlight:hover {
-  height: max-content;
+.darkHighlight {
+  background: linear-gradient(180deg, transparent 60%, #473080 0);
+}
+
+textarea {
+  resize: none;
 }

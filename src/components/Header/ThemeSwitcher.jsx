@@ -5,7 +5,7 @@ const ThemeSwitcher = () => {
   const { darkMode, setDarkMode } = useContext(ThemeContext);
 
   return (
-    <div className="md:block hidden" onClick={() => setDarkMode(!darkMode)}>
+    <div className="hidden md:block" onClick={() => setDarkMode(!darkMode)}>
       {darkMode ? (
         <img src="src/assets/icons/toDarkMode.svg" alt="" />
       ) : (

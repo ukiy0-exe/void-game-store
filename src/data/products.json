@@ -10,7 +10,8 @@
       "battle-net": true,
       "gog": true
     },
-    "price": 29.99
+    "price": 29.99,
+    "cart_quantity": 0
   },
   {
     "id": 2,
@@ -21,7 +22,8 @@
       "steam": true,
       "gog": true
     },
-    "price": 39.99
+    "price": 39.99,
+    "cart_quantity": 0
   },
   {
     "id": 3,
@@ -33,7 +35,8 @@
       "epic-games": true,
       "gog": true
     },
-    "price": 49.99
+    "price": 49.99,
+    "cart_quantity": 0
   },
   {
     "id": 4,
@@ -44,7 +47,8 @@
       "steam": true,
       "epic-games": true
     },
-    "price": 59.99
+    "price": 59.99,
+    "cart_quantity": 0
   },
   {
     "id": 5,
@@ -56,7 +60,8 @@
       "playstation": true,
       "nintendo": true
     },
-    "price": 26.95
+    "price": 26.95,
+    "cart_quantity": 0
   },
 
   {
@@ -69,7 +74,8 @@
       "epic-games": true,
       "microsoft": true
     },
-    "price": 4.99
+    "price": 4.99,
+    "cart_quantity": 0
   },
   {
     "id": 8,
@@ -82,7 +88,8 @@
       "playstation": true,
       "xbox": true
     },
-    "price": 69.99
+    "price": 69.99,
+    "cart_quantity": 0
   },
   {
     "id": 9,
@@ -94,7 +101,8 @@
       "ubisoft": true,
       "playstation": true
     },
-    "price": 59.99
+    "price": 59.99,
+    "cart_quantity": 0
   },
   {
     "id": 10,
@@ -106,7 +114,8 @@
       "microsoft": true,
       "playstation": true
     },
-    "price": 39.99
+    "price": 39.99,
+    "cart_quantity": 0
   },
   {
     "id": 11,
@@ -116,7 +125,8 @@
     "platforms": {
       "nintendo": true
     },
-    "price": 59.99
+    "price": 59.99,
+    "cart_quantity": 0
   },
   {
     "id": 12,
@@ -128,7 +138,8 @@
       "microsoft": true,
       "xbox": true
     },
-    "price": 59.99
+    "price": 59.99,
+    "cart_quantity": 0
   },
   {
     "id": 13,
@@ -140,7 +151,8 @@
       "playstation": true,
       "xbox": true
     },
-    "price": 49.99
+    "price": 49.99,
+    "cart_quantity": 0
   },
   {
     "id": 14,
@@ -152,7 +164,8 @@
       "epic-games": true,
       "playstation": true
     },
-    "price": 19.99
+    "price": 19.99,
+    "cart_quantity": 0
   },
   {
     "id": 15,
@@ -160,9 +173,11 @@
     "img": "https://i0.wp.com/epiloguegaming.com/wp-content/uploads/2020/08/Ghost-of-Tsushima_20200717055528.jpg?fit=1600%2C900&ssl=1",
     "short_description": "Ghost of Tsushima is an action-adventure game developed by Sucker Punch Productions and published by Sony Interactive Entertainment for the PlayStation 4 and PlayStation 5.",
     "platforms": {
+      "steam": true,
       "playstation": true
     },
-    "price": 59.99
+    "price": 59.99,
+    "cart_quantity": 0
   },
   {
     "id": 16,
@@ -174,7 +189,8 @@
       "epic-games": true,
       "nintendo": true
     },
-    "price": 24.99
+    "price": 24.99,
+    "cart_quantity": 0
   },
   {
     "id": 17,
@@ -186,7 +202,8 @@
       "playstation": true,
       "xbox": true
     },
-    "price": 29.99
+    "price": 29.99,
+    "cart_quantity": 0
   },
 
   {
@@ -200,7 +217,8 @@
       "playstation": true,
       "xbox": true
     },
-    "price": 39.99
+    "price": 39.99,
+    "cart_quantity": 0
   },
   {
     "id": 20,
@@ -212,7 +230,8 @@
       "gog": true,
       "nintendo": true
     },
-    "price": 14.99
+    "price": 14.99,
+    "cart_quantity": 0
   },
   {
     "id": 21,
@@ -226,7 +245,8 @@
       "xbox": true,
       "nintendo": true
     },
-    "price": 19.99
+    "price": 19.99,
+    "cart_quantity": 0
   },
   {
     "id": 22,
@@ -240,7 +260,8 @@
       "xbox": true,
       "nintendo": true
     },
-    "price": 14.99
+    "price": 14.99,
+    "cart_quantity": 0
   },
   {
     "id": 23,
@@ -254,7 +275,8 @@
       "xbox": true,
       "nintendo": true
     },
-    "price": 19.99
+    "price": 19.99,
+    "cart_quantity": 0
   },
   {
     "id": 24,
@@ -266,7 +288,8 @@
       "playstation": true,
       "xbox": true
     },
-    "price": 59.99
+    "price": 59.99,
+    "cart_quantity": 0
   },
   {
     "id": 25,
@@ -278,7 +301,8 @@
       "playstation": true,
       "xbox": true
     },
-    "price": 29.99
+    "price": 29.99,
+    "cart_quantity": 0
   },
   {
     "id": 26,
@@ -291,7 +315,8 @@
       "xbox": true,
       "nintendo": true
     },
-    "price": 9.99
+    "price": 9.99,
+    "cart_quantity": 0
   },
   {
     "id": 27,
@@ -304,7 +329,8 @@
       "playstation": true,
       "xbox": true
     },
-    "price": 29.99
+    "price": 29.99,
+    "cart_quantity": 0
   },
   {
     "id": 28,
@@ -316,7 +342,8 @@
       "playstation": true,
       "xbox": true
     },
-    "price": 59.99
+    "price": 59.99,
+    "cart_quantity": 0
   },
   {
     "id": 29,
@@ -330,7 +357,8 @@
       "xbox": true,
       "nintendo": true
     },
-    "price": 24.99
+    "price": 24.99,
+    "cart_quantity": 0
   },
   {
     "id": 30,
@@ -343,7 +371,8 @@
       "playstation": true,
       "xbox": true
     },
-    "price": 24.99
+    "price": 24.99,
+    "cart_quantity": 0
   },
   {
     "id": 31,
@@ -355,7 +384,8 @@
       "microsoft": true,
       "xbox": true
     },
-    "price": 29.99
+    "price": 29.99,
+    "cart_quantity": 0
   },
   {
     "id": 32,
@@ -369,7 +399,8 @@
       "xbox": true,
       "nintendo": true
     },
-    "price": 29.99
+    "price": 29.99,
+    "cart_quantity": 0
   },
   {
     "id": 33,
@@ -382,7 +413,8 @@
       "xbox": true,
       "nintendo": true
     },
-    "price": 24.99
+    "price": 24.99,
+    "cart_quantity": 0
   },
   {
     "id": 34,
@@ -395,7 +427,8 @@
       "xbox": true,
       "nintendo": true
     },
-    "price": 44.99
+    "price": 44.99,
+    "cart_quantity": 0
   },
   {
     "id": 35,
@@ -408,7 +441,8 @@
       "playstation": true,
       "xbox": true
     },
-    "price": 29.99
+    "price": 29.99,
+    "cart_quantity": 0
   },
   {
     "id": 36,
@@ -421,7 +455,8 @@
       "playstation": true,
       "xbox": true
     },
-    "price": 39.99
+    "price": 39.99,
+    "cart_quantity": 0
   },
   {
     "id": 37,
@@ -433,7 +468,8 @@
       "playstation": true,
       "xbox": true
     },
-    "price": 59.99
+    "price": 59.99,
+    "cart_quantity": 0
   },
   {
     "id": 39,
@@ -446,6 +482,7 @@
       "playstation": true,
       "xbox": true
     },
-    "price": 29.99
+    "price": 29.99,
+    "cart_quantity": 0
   }
 ]

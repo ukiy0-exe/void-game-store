@@ -10,6 +10,8 @@ import { useContext } from "react";
 import { ThemeContext } from "./contexts/ThemeContext";
 import Cart from "./pages/Cart";
 import { CartProvider } from "./contexts/CartContext/CartContext";
+import Footer from "./components/Footer/Footer";
+import ThanksForPurchase from "./components/extra/ThanksForPurchase";
 
 function App() {
   const { darkMode } = useContext(ThemeContext);
@@ -18,7 +20,7 @@ function App() {
       <div
         className={
           (!darkMode ? "dark" : "light") +
-          " h-fit md:h-full font-customFont text-primary bg-background"
+          " h-fit bg-background font-customFont text-primary md:h-full"
         }
       >
         <CartProvider>
@@ -31,7 +33,9 @@ function App() {
               <Route path="/cart" element={<Cart />} />
             </Route>
             <Route path="*" element={<PageNotFound />} />
+            <Route path="/purchase" element={<ThanksForPurchase />} />
           </Routes>
+          <Footer />
         </CartProvider>
       </div>
     </>

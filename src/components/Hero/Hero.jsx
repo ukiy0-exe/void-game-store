@@ -4,30 +4,32 @@ import { useNavigate } from "react-router-dom";
 const Hero = () => {
   const navigate = useNavigate();
   return (
-    <section className="customBackground h-screen md:h-2/4 flex flex-wrap items-center justify-center gap-10">
+    <section className="customBackground flex h-screen flex-wrap items-center justify-center gap-10 dark:bg-zinc-800 dark:text-white md:h-2/4">
       <div className="w-5/6 lg:w-1/3">
-        <h1 className="text-5xl my-10">
+        <h1 className="my-10 text-5xl">
           Level Up Your <br />
-          <span className="highlight">Gaming Experience</span>!
+          <span className="highlight dark:darkHighlight">
+            Gaming Experience
+          </span>
+          !
         </h1>
-        <p className="bg-background rounded-md py-2">
+        <p className="rounded-sm bg-background py-2 dark:bg-zinc-800">
           Discover the latest releases, classic favorites, and exclusive deals
           on top video games. Whether you're a casual player or a hardcore
-          gamer,
-          <span className="">we've got the games to match your style.</span>
+          gamer, we've got the games to match your style.
         </p>
         <button
-          className="relative inline-block font-medium group py-2 px-5 my-10"
+          className="group relative my-10 inline-block px-5 py-2 font-medium"
           onClick={() => navigate("products")}
         >
-          <span className="absolute inset-0 w-full h-full transition duration-400 ease-out transform translate-x-1 translate-y-1 bg-highlight group-hover:-translate-x-0 group-hover:-translate-y-0 "></span>
-          <span className="absolute inset-0 w-full h-full bg-white border border-highlight group-hover:bg-[#b499fa]"></span>
-          <span className="relative text-highlight font-semibold">
+          <span className="duration-400 absolute inset-0 h-full w-full translate-x-1 translate-y-1 transform bg-highlight transition ease-out group-hover:-translate-x-0 group-hover:-translate-y-0"></span>
+          <span className="absolute inset-0 h-full w-full border-2 border-highlight bg-white group-hover:bg-[#b499fa] dark:bg-zinc-300"></span>
+          <span className="relative font-semibold text-highlight">
             Shop Now
           </span>
         </button>
       </div>
-      <div className="w-1/3 hidden lg:block m-10">
+      <div className="m-10 hidden w-1/3 lg:block">
         <img src="src/assets/icons/hero-section.svg" alt="" />
       </div>
     </section>

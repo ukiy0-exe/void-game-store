@@ -5,10 +5,10 @@ const Logo = () => {
   return (
     <div className="basis-1/5">
       <Link
-        className="text-2x1 font-black flex items-center justify-center"
+        className="text-2x1 flex items-center justify-center font-black"
         to="/"
       >
-        <span className="mr-2 logo">
+        <span className="logo mr-2">
           <img src="src/assets/icons/logo.svg" alt="" />
         </span>
         <span className="hidden md:block">Void.</span>
