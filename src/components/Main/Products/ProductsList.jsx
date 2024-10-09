@@ -3,7 +3,7 @@ import { useFetch } from "../../../hooks/useFetch";
 import { useAddToCart } from "../../../hooks/useAddToCart";
 
 const ProductsList = () => {
-  const { data } = useFetch("src/data/products.json");
+  const { data } = useFetch("/data/products.json");
   const addToCart = useAddToCart();
 
   return (

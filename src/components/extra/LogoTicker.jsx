@@ -5,7 +5,7 @@ import About from "../../pages/About";
 import { ThemeContext } from "../../contexts/ThemeContext";
 
 const LogoTicker = () => {
-  const { data } = useFetch("src/data/partners.json");
+  const { data } = useFetch("/data/partners.json");
   const { darkMode } = useContext(ThemeContext);
 
   return (
