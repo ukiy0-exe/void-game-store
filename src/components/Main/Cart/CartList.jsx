@@ -59,7 +59,7 @@ const CartList = () => {
                     }}
                     className="mb-6 md:my-0"
                   >
-                    -
+                    ➖
                   </button>
                   <p className="mb-6 text-center md:my-0">
                     {product.cart_quantity}
@@ -70,7 +70,7 @@ const CartList = () => {
                       incrementQnty(product);
                     }}
                   >
-                    +
+                    ➕
                   </button>
                   <button
                     className="mb-6 md:my-0"

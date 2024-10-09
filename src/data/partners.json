@@ -2,51 +2,51 @@
   {
     "id": 1,
     "company_name": "steam",
-    "img": "src/assets/icons/partners/steam.svg"
+    "img": "/assets/icons/partners/steam.svg"
   },
   {
     "id": 2,
     "company_name": "epic",
-    "img": "src/assets/icons/partners/epic-games.svg"
+    "img": "/assets/icons/partners/epic-games.svg"
   },
   {
     "id": 3,
     "company_name": "gog",
-    "img": "src/assets/icons/partners/gog.svg"
+    "img": "/assets/icons/partners/gog.svg"
   },
   {
     "id": 4,
     "company_name": "ubisoft",
-    "img": "src/assets/icons/partners/ubisoft.svg"
+    "img": "/assets/icons/partners/ubisoft.svg"
   },
   {
     "id": 5,
     "company_name": "battle.net",
-    "img": "src/assets/icons/partners/battle-net.svg"
+    "img": "/assets/icons/partners/battle-net.svg"
   },
   {
     "id": 6,
     "company_name": "steam",
-    "img": "src/assets/icons/partners/steam.svg"
+    "img": "/assets/icons/partners/steam.svg"
   },
   {
     "id": 7,
     "company_name": "epic",
-    "img": "src/assets/icons/partners/epic-games.svg"
+    "img": "/assets/icons/partners/epic-games.svg"
   },
   {
     "id": 8,
     "company_name": "gog",
-    "img": "src/assets/icons/partners/gog.svg"
+    "img": "/assets/icons/partners/gog.svg"
   },
   {
     "id": 9,
     "company_name": "ubisoft",
-    "img": "src/assets/icons/partners/ubisoft.svg"
+    "img": "/assets/icons/partners/ubisoft.svg"
   },
   {
     "id": 10,
     "company_name": "battle.net",
-    "img": "src/assets/icons/partners/battle-net.svg"
+    "img": "/assets/icons/partners/battle-net.svg"
   }
 ]

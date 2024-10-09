@@ -7,9 +7,9 @@ const ThemeSwitcher = () => {
   return (
     <div className="hidden md:block" onClick={() => setDarkMode(!darkMode)}>
       {darkMode ? (
-        <img src="src/assets/icons/toDarkMode.svg" alt="" />
+        <img src="/assets/icons/toDarkMode.svg" alt="" />
       ) : (
-        <img src="src/assets/icons/toLightMode.svg" alt="" />
+        <img src="/assets/icons/toLightMode.svg" alt="" />
       )}
     </div>
   );

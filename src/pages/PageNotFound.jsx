@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const PageNotFound = () => {
   return (
     <div className="customBackground flex h-screen flex-col items-center justify-center">
-      <img className="w-[500px]" src="src/assets/icons/404.svg" alt="" />
+      <img className="w-[500px]" src="/assets/icons/404.svg" alt="" />
       <p className="rounded- w-[500px] bg-background p-4 text-center">
         The page you’re looking for might have been moved or doesn’t exist
         anymore. <br />

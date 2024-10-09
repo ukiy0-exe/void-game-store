@@ -91,11 +91,11 @@ const QuestionsForm = () => {
       </div>
       {!submitted ? (
         <div className="m-10 hidden w-1/2 -scale-x-100 lg:block">
-          <img src="src/assets/icons/questions2.svg" alt="" />
+          <img src="/assets/icons/questions2.svg" alt="" />
         </div>
       ) : (
         <div className="m-10 hidden w-1/2 lg:block">
-          <img src="src/assets/icons/success.svg" alt="" />
+          <img src="/assets/icons/success.svg" alt="" />
         </div>
       )}
     </div>

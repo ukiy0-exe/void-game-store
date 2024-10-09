@@ -7,7 +7,7 @@ const ThanksForPurchase = () => {
     <div className="customBackground flex h-screen flex-col items-center justify-center">
       <img
         className="w-[500px]"
-        src="src/assets/icons/successful-purchase.svg"
+        src="/assets/icons/successful-purchase.svg"
         alt=""
       />
       <h1 className="highlight text-3xl text-primary">

@@ -32,7 +32,7 @@ const ProductsList = () => {
                       <img
                         loading="lazy"
                         className="mr-3 w-8"
-                        src={`src/assets/icons/partners/${key}.svg`}
+                        src={`/assets/icons/partners/${key}.svg`}
                         alt={product.id}
                         key={key}
                       />

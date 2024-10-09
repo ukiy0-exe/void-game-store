@@ -30,7 +30,7 @@ const Hero = () => {
         </button>
       </div>
       <div className="m-10 hidden w-1/3 lg:block">
-        <img src="src/assets/icons/hero-section.svg" alt="" />
+        <img src="/assets/icons/hero-section.svg" alt="" />
       </div>
     </section>
   );

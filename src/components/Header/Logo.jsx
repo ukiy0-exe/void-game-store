@@ -9,7 +9,7 @@ const Logo = () => {
         to="/"
       >
         <span className="logo mr-2">
-          <img src="src/assets/icons/logo.svg" alt="" />
+          <img src="/assets/icons/logo.svg" alt="" />
         </span>
         <span className="hidden md:block">Void.</span>
       </Link>
